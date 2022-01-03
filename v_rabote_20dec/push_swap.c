@@ -21,6 +21,7 @@ int main(int argc, char **argv)
 	char **str_arg;
 	int *neworder1;
 
+	stack_b = 0;
 	k = 0;
 	if (argc < 2)
 		exit(EXIT_FAILURE);
