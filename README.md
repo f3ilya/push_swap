@@ -23,8 +23,6 @@
 | rrb           | rotates stuck B down by one |
 | rrr           | rotates both A and B down by one |
 
-Для сортировки стека был использован алгоритм сортировки вставками (+ оптимизация). Подробное описание алгоритма в рамках данного проекта представлено по ссылке: https://medium.com/@jamierobertdawson/push-swap-the-least-amount-of-moves-with-two-stacks-d1e76a71789a . 
-
 Для компиляции основной части программы необходимо запустить команду \
 ```make all```  <br>
 
